@@ -1,0 +1,35 @@
+**********Step Two**********
+City(name=Atlanta, latitude=33.749, longitude=-84.388)
+City(name=Bozeman, latitude=45.677, longitude=-111.0429)
+City(name=New York, latitude=40.7128, longitude=-74.006)
+City(name=San Francisco, latitude=37.7749, longitude=-122.4194)
+City(name=Tacoma, latitude=47.2529, longitude=-122.4443)
+**********Step Three**********
+The distance between Seattle and Tacoma is 40.19290553996769 km
+
+**********Step Four**********
+A new list with the distances of all cities in the list to Seattle:
+
+[3506.672723087685, 887.4977864782966, 3866.6204789528556, 1093.5226297469185, 40.19290553996769]
+
+**********Step Five**********
+List of cities over 1000km from Seattle (used the return 
+list from the Filter function and just printed the city 
+name)
+Atlanta
+New York
+San Francisco
+
+**********Step Six**********
+[Bozeman, San Francisco, Tacoma]
+
+**********Step Seven**********
+Max distance: City(name=New York, latitude=40.7128, longitude=-74.006)
+
+**********Step Eight**********
+Name Atlanta: City City(name=Atlanta, latitude=33.749, longitude=-84.388)
+Name Bozeman: City City(name=Bozeman, latitude=45.677, longitude=-111.0429)
+Name New York: City City(name=New York, latitude=40.7128, longitude=-74.006)
+Name San Francisco: City City(name=San Francisco, latitude=37.7749, longitude=-122.4194)
+Name Tacoma: City City(name=Tacoma, latitude=47.2529, longitude=-122.4443)
+The latitude for Bozeman is 45.677
